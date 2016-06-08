@@ -1,0 +1,2 @@
+require "sortme"
+Sortme::Sort.new.start

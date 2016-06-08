@@ -1,5 +1,11 @@
+require "filesorter/path"
 require "sortme/version"
 
 module Sortme
-  # Your code goes here...
+  class Sort
+    def start
+      puts "dd"
+    end
+  end
+
 end

@@ -1,7 +1,7 @@
 # coding: utf-8
-lib = File.expand_path('../lib', __FILE__)
+lib = File.expand_path("../lib", __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'sortme/version'
+require "sortme/version"
 
 Gem::Specification.new do |spec|
   spec.name          = "sortme"
@@ -10,14 +10,14 @@ Gem::Specification.new do |spec|
   spec.email         = ["olumuyiwa.osiname@andela.com"]
 
   spec.summary       = ["This gem installs filesorter_sname on your local machine"]
-  spec.description   = ["Filesorter is a script that helps move your media files from a folder into your library media folders"]
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.description   = ["Sortme is a script that helps move your media files from a folder into your library media folders"]
+  spec.homepage      = "https://github.com/andela-oosiname/sortme"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
   if spec.respond_to?(:metadata)
-    spec.metadata['allowed_push_host'] = "TODO: Set to 'http://mygemserver.com'"
+    spec.metadata["allowed_push_host"] = "TODO: Set to 'http://mygemserver.com'"
   else
     raise "RubyGems 2.0 or newer is required to protect against public gem pushes."
   end

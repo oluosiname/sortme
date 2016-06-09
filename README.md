@@ -1,4 +1,4 @@
-[![Code Climate](https://codeclimate.com/github/andela-oosiname/sortme/badges/gpa.svg)](https://codeclimate.com/github/andela-oosiname/sortme)
+[![Code Climate](https://codeclimate.com/github/andela-oosiname/sortme/badges/gpa.svg)](https://codeclimate.com/github/andela-oosiname/sortme) [![Build Status](https://travis-ci.org/andela-oosiname/sortme.svg?branch=master)](https://travis-ci.org/andela-oosiname/sortme)
 
 
 # Sort Me

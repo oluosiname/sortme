@@ -35,5 +35,4 @@ module Sortme
       extensions.include? File.extname(file)
     end
   end
-
 end

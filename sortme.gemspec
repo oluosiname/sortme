@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Olumuyiwa Osiname"]
   spec.email         = ["olumuyiwa.osiname@andela.com"]
 
-  spec.summary       = ["This gem installs filesorter_sname on your local machine"]
+  spec.summary       = ["This gem installs sortme on your local machine"]
   spec.description   = ["Sortme is a script that helps move your media files from a folder into your library media folders"]
   spec.homepage      = "https://github.com/andela-oosiname/sortme"
   spec.license       = "MIT"
